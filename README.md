@@ -1,16 +1,13 @@
-### Hi there 👋
+# Andochiwa
 
-<!--
-**andochiwa/andochiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://github.com/andochiwa/github-readme-stats">
+    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=andochiwa&count_private=true&show_icons=true&theme=algolia" />
+  </a>
+  <a href="https://github.com/andochiwa/github-readme-stats">
+    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andochiwa&layout=compact&theme=algolia&repo=github-readme-stats&langs_count=15" />
+  </a>  
+</p>
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=andochiwa&title=MultiLanguage,Joined2020,Commit,Repositories,Stars&margin-w=15)](https://github.com/andochiwa/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
