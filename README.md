@@ -2,10 +2,10 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=andochiwa&count_private=true&show_icons=true&theme=algolia" />
+    <img align="center" height="180px" src="https://github-readme-stats-weld-beta-22.vercel.app/api?username=andochiwa&count_private=true&show_icons=true&theme=algolia" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andochiwa&layout=compact&theme=algolia&repo=github-readme-stats&langs_count=15" />
+    <img align="center" height="180px" src="https://github-readme-stats-weld-beta-22.vercel.app/api/top-langs/?username=andochiwa&layout=compact&theme=algolia&repo=github-readme-stats&langs_count=15" />
   </a>  
 </p>
 
